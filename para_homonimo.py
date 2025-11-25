@@ -33,8 +33,6 @@ HOMONIMOS = {
     "rayar": ["hacer rayas (to scratch/draw lines)"],
     "hasta": ["preposición (until/up to)"],
     "asta": ["cuerno, palo de bandera (horn, flagpole)"],
-    "asia": ["continente (continent)"],
-    "hacia": ["preposición de dirección (toward)"],
 }
 
 
@@ -76,7 +74,6 @@ def obtener_homonimos(palabra: str) -> list[str]:
         ("cocer", "coser"),
         ("rallar", "rayar"),
         ("hasta", "asta"),
-        ("asia", "hacia"),
     ]
 
     for grupo in pares:
