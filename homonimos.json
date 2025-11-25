@@ -1,0 +1,82 @@
+{
+  "titulo": "Homónimos en Español",
+  "descripcion": "Una colección de homónimos comunes en español",
+  "homonimos": [
+    {
+      "palabra": "banco",
+      "significados": [
+        "Asiento largo para varias personas",
+        "Institución financiera",
+        "Conjunto de peces"
+      ]
+    },
+    {
+      "palabra": "vino",
+      "significados": [
+        "Bebida alcohólica hecha de uvas",
+        "Forma pasada del verbo 'venir'"
+      ]
+    },
+    {
+      "palabra": "cola",
+      "significados": [
+        "Parte del cuerpo de algunos animales",
+        "Pegamento",
+        "Fila de personas esperando"
+      ]
+    },
+    {
+      "palabra": "capital",
+      "significados": [
+        "Ciudad principal de un país o región",
+        "Dinero o recursos económicos"
+      ]
+    },
+    {
+      "palabra": "hoja",
+      "significados": [
+        "Parte de una planta",
+        "Lámina de papel",
+        "Parte cortante de un cuchillo"
+      ]
+    },
+    {
+      "palabra": "copa",
+      "significados": [
+        "Vaso con pie para beber",
+        "Trofeo deportivo",
+        "Parte superior de un árbol"
+      ]
+    },
+    {
+      "palabra": "llama",
+      "significados": [
+        "Animal sudamericano",
+        "Fuego visible",
+        "Forma del verbo 'llamar'"
+      ]
+    },
+    {
+      "palabra": "cabo",
+      "significados": [
+        "Extremo de algo",
+        "Rango militar",
+        "Porción de tierra que entra en el mar"
+      ]
+    },
+    {
+      "palabra": "muñeca",
+      "significados": [
+        "Juguete con forma humana",
+        "Parte del cuerpo entre la mano y el antebrazo"
+      ]
+    },
+    {
+      "palabra": "gato",
+      "significados": [
+        "Animal doméstico felino",
+        "Herramienta para levantar vehículos"
+      ]
+    }
+  ]
+}
